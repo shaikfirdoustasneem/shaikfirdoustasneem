@@ -30,27 +30,21 @@ My areas of interest include:
 AI-powered prompt evaluation system using Machine Learning, NLP techniques, transformer embeddings, and predictive scoring workflows.
 
 ### Emergency Vehicle Routing Optimization
-
 Graph-based urban traffic optimization system using NetworkX, congestion simulation, and emergency routing algorithms.
 
 ### Supply Chain Risk Prediction System
-
 Machine learning-based logistics optimization and disruption prediction framework with transport recommendation logic.
 
 ### Monthly Demand Pattern Analysis
-
 Retail demand classification and seasonal analytics system using Machine Learning and data visualization techniques.
 
 ### Robotic Arm using Raspberry Pi Pico
-
 Embedded automation project using Raspberry Pi Pico and servo motor control systems.
 
 ### Smart Wheelchair with GPS Module
-
 Prototype IoT-based wheelchair assistance system with GPS integration and location tracking concepts.
 
 ### LED Interfacing System
-
 Foundational embedded systems project focused on hardware interfacing and output control using microcontroller programming.
 
 ---
